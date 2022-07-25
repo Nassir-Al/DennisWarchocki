@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-
-**DennisWarchocki/DennisWarchocki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Grafik](https://www.wwf.de/fileadmin/_processed_/2/1/csm_afrikanisches-spitzmaulnashorn-afrika-grasland-WW188829-c-martin-harvey-wwf_19182a8f09.jpg)
 
 
@@ -11,7 +9,6 @@ Rhinos are the best mammals because:
 1. they are male version of unicorns
 1. they have cool horns
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... becomming a skilled web developer
 - 🌱 I’m currently learning ... Github & Markdown
